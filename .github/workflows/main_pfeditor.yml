@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pfeditor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_449E3CA1107148B7A51F48F965A411A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C33CF9B391BF4F68B371B80FC53F825B }}
           package: .
